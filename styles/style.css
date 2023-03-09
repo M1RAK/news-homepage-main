@@ -24,15 +24,15 @@
 a {
   text-decoration: none;
   margin: 0 1rem;
+  color: var(--Very_dark_blue);
 }
 
 li {
   list-style: none;
-  color: var(--Dark_grayish_blue);
 }
 
-li:hover{
-  color: var(--Very_dark_blue);
+a:hover{
+  color: var(--Dark_grayish_blue); 
 }
 
 hr {
