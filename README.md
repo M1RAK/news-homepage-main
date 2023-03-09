@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/M1RAK/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/M1RAK/news-homepage-main)
+- Live Site URL: [](https://news-homepage-master.netlify.app/)
 
 
 ### Built with
